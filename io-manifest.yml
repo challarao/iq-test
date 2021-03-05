@@ -42,6 +42,7 @@ environment:
   scmRepositoryName: iq-test
   scmBranchName: main
   githubToken: <<GITHUB_TOKEN>>
+  githubApiUrl: https://api.github.com
   testDeploymentRoot: "insecure-bank"
   imChannelIdentifier: "#stargazer-notifications"
   jiraProjectName: "IQ3"
