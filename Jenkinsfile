@@ -1,4 +1,4 @@
-    @Library('stargazer-orchestration')
+    @Library('intelligent-orchestration')
 
     import com.demo.*
 
