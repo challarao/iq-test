@@ -35,7 +35,10 @@ tool_information:
     project_name: iq-test
     instance_url: <<BLACKDUCK_SERVER_URL>>
     auth_token: <<BLACKDUCK_ACCESS_TOKEN>>
-
+- tool_name: seeker
+  enabled: true
+  fields:
+    project_name: iq-test
 environment:
   scm: github
   scmOwner: adityabyreddy
